@@ -140,4 +140,8 @@
     <string name="accent_color">Accent picker</string>
     <string name="accent_summary">System wide accent maker</string>
 
+    <!-- Clock style -->
+    <string name="clock_style_title">Clock style</string>
+    <string name="clock_style_summary">Customize lockscreen clock</string>
+
 </resources>
