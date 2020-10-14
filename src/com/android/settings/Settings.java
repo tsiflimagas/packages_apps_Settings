@@ -244,4 +244,7 @@ public class Settings extends SettingsActivity {
      * Activity for Hycon Hub
      */
     public static class HyconHubActivity extends SettingsActivity { /* empty */ }
+
+    public static class TrafficActivity extends SettingsActivity { /* empty */ }
+
 }

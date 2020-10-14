@@ -3450,6 +3450,17 @@
                 android:resource="@string/hycon_dashboard_summary"/>
         </activity>
 
+        <activity android:name="Settings$TrafficActivity"
+                  android:label="@string/traffic_title"
+                  android:taskAffinity="com.android.settings" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.hycon.settings.Traffic" />
+        </activity>
+
         <!-- This is the longest AndroidManifest.xml ever. -->
     </application>
 </manifest>

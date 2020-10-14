@@ -94,4 +94,6 @@
     <string name="maintainer">Maintainer</string>
     <string name="hycon_maintainer">Unofficial Maintainer</string>
 
+    <string name="traffic_title">Network traffic</string>
+
 </resources>
