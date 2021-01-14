@@ -34,6 +34,14 @@
         settings:searchable="false"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController"/>
 
+    <!-- ROM Version -->
+    <Preference
+        android:key="hycon_version"
+        android:title="@string/hycon_version_title"
+        android:summary="@string/device_info_default"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.HyconVersionPreferenceController"/>
+
     <!-- Security patch -->
     <Preference
         android:key="security_key"
