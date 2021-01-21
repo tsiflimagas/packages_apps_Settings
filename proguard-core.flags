@@ -1,0 +1,2 @@
+# HyconHub
+-keep class com.hycon.settings.**

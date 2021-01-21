@@ -240,4 +240,8 @@ public class Settings extends SettingsActivity {
      */
     public static class MediaControlsSettingsActivity extends SettingsActivity {}
 
+    /**
+     * Activity for Hycon Hub
+     */
+    public static class HyconHubActivity extends SettingsActivity { /* empty */ }
 }

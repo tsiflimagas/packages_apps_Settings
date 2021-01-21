@@ -53,4 +53,7 @@
     <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
     <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
 
+    <!-- Hycon Hub -->
+    <string name="hycon_settings_title">Hycon Hub</string>
+    <string name="hycon_dashboard_summary">Welcome to the Hub</string>
 </resources>
