@@ -92,5 +92,6 @@
 
     <!-- Hycon maintainer -->
     <string name="maintainer">Maintainer</string>
+    <string name="hycon_maintainer">Unofficial Maintainer</string>
 
 </resources>
