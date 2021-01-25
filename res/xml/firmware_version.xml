@@ -37,8 +37,8 @@
     <!-- ROM Version -->
     <Preference
         android:key="hycon_version"
-        android:title="@string/hycon_version_title"
-        android:summary="@string/device_info_default"
+        android:title="@string/hycon_version"
+        android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.HyconVersionPreferenceController"/>
 
