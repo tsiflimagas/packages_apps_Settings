@@ -421,7 +421,7 @@ public class PowerUsageSummary extends PowerUsageBase implements OnLongClickList
         mScreenUsagePref.setSummary(StringUtil.formatElapsedTime(getContext(),
                 mBatteryUtils.calculateScreenUsageTime(mStatsHelper), false));
         mBatteryTemp.setSummary(
-                com.android.internal.util.octavi.OctaviUtils.batteryTemperature(getContext(), false));
+                com.android.internal.util.custom.CustomUtils.batteryTemperature(getContext(), false));
 
         mCurrentBatteryCapacity.setSubtitle(parseBatterymAhText(mBatCurCap));
         mDesignedBatteryCapacity.setSubtitle(parseBatterymAhText(mBatDesCap));
