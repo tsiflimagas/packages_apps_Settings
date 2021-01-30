@@ -57,12 +57,6 @@
     <!-- Hycon Hub -->
     <string name="hycon_settings_title">Hycon Hub</string>
     <string name="hycon_dashboard_summary">Welcome to the Hub</string>
-
-    <!-- SELinux Status -->
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permissive</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
  
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Reset stats</string>
