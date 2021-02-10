@@ -17,7 +17,7 @@
         <com.android.settingslib.widget.AdaptiveIconShapeDrawable
             android:width="@dimen/dashboard_tile_image_size"
             android:height="@dimen/dashboard_tile_image_size"
-            android:color="#ffffff" />
+            android:color="@color/ic_settings_hycon" />
     </item>
 
     <item
